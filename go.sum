@@ -5,6 +5,8 @@ github.com/ewriq/pouch v0.0.0-20250714085828-aee3583dd87a h1:iSVhcU2ecZ6t1BXl8Lt
 github.com/ewriq/pouch v0.0.0-20250714085828-aee3583dd87a/go.mod h1:THtlP+pzkSGKSgZT0s/fUmt+iKGd5JssWvQ1QTlUaw8=
 github.com/ewriq/pouch v0.0.0-20250714115337-ca103b74ba12 h1:F/pPyMgQvTO4eW7v1AN0vak7WWwcaIMEfXuCMno5+2Y=
 github.com/ewriq/pouch v0.0.0-20250714115337-ca103b74ba12/go.mod h1:THtlP+pzkSGKSgZT0s/fUmt+iKGd5JssWvQ1QTlUaw8=
+github.com/ewriq/pouch v0.0.0-20250714165655-a13c98a858d5 h1:Lvagb8o2K0SdlMlzWStPOy1v5g+j83o7EsEvAHL4BFI=
+github.com/ewriq/pouch v0.0.0-20250714165655-a13c98a858d5/go.mod h1:THtlP+pzkSGKSgZT0s/fUmt+iKGd5JssWvQ1QTlUaw8=
 github.com/fsnotify/fsnotify v1.8.0 h1:dAwr6QBTBZIkG8roQaJjGof0pp0EeF+tNV7YBP3F/8M=
 github.com/fsnotify/fsnotify v1.8.0/go.mod h1:8jBTzvmWwFyi3Pb8djgCCO5IBqzKJ/Jwo8TRcHyHii0=
 github.com/go-viper/mapstructure/v2 v2.2.1 h1:ZAaOCxANMuZx5RCeg0mBdEZk7DZasvvZIxtHqx8aGss=
