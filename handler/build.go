@@ -6,7 +6,6 @@ import (
 	"github.com/ewriq/pouch"
 )
 
-var err error
 
 func Build(name string) string {
 	log.Println("🚀 Web SSH (ttyd) container başlatılıyor...")

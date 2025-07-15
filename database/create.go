@@ -8,8 +8,6 @@ import (
 )
 
 func Create(options, name, id string) error {
-	const filePath = "./database/db.csv"
-
 	file, err := os.OpenFile(filePath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		return fmt.Errorf("Dosya açılamadı: %v", err)

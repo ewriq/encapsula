@@ -27,7 +27,6 @@ var build = &cobra.Command{
 				return
 				
 			}
-			log.Println(argsr)
 			err := database.Create(	"ubunutu", argsr, id)
 			if err != nil {
 				log.Println("ERROR: %v", err)
